@@ -3,3 +3,6 @@ An IOT project to help users monitor their indoor garden and operate various tas
 This project was done using Blynk and C++. It uses an esp8266, arduino UNO and various sensors for input and output.
 This project supports two modes : 1. Manual 2. Autopilot
 Users can manually control and see all the functionalites or they they can just put it to autopilot mode which can perform various tasks without human intervention seamlessly.
+
+#CircuitDesign
+
