@@ -5,7 +5,7 @@ This project supports two modes : 1. Manual 2. Autopilot
 Users can manually control and see all the functionalites or they they can just put it to autopilot mode which can perform various tasks without human intervention seamlessly.
 
 **PROJECT**
-
+![project](https://github.com/Nafis71/Garduino/assets/57575805/b896ea0b-4874-4987-b366-f69601abff95)
 
 
 
