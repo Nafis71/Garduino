@@ -7,3 +7,6 @@ Users can manually control and see all the functionalites or they they can just 
 **CircuitDesign**
 ![Garduino](https://github.com/Nafis71/Garduino/assets/57575805/72fc2d81-282b-4cab-b70c-8ccfb7b3ea50)
 
+**Flow Diagram**
+![garduino_flow drawio](https://github.com/Nafis71/Garduino/assets/57575805/20e41323-d284-4ec5-b736-37f23cfd9759)
+
